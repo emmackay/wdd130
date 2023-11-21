@@ -309,3 +309,24 @@ img {
     border: double;
     border-color: #780000;
 }
+
+.line1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.line2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.line3 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 0 auto;
+    text-align: center;
+}
