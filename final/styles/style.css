@@ -336,6 +336,7 @@ img {
     grid-template-columns: 1fr 1fr;
     margin: 0 auto;
     text-align: center;
+    padding: 10px;
 }
 
 .videos2 {
@@ -343,6 +344,7 @@ img {
     grid-template-columns: 1fr 1fr;
     margin: 0 auto;
     text-align: center;
+    padding: 10px;
 }
 
 .videos3 {
@@ -350,6 +352,7 @@ img {
     grid-template-columns: 1fr 1fr;
     margin: 0 auto;
     text-align: center;
+    padding: 10px;
 }
 
 iframe {
