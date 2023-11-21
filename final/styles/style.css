@@ -356,3 +356,8 @@ iframe {
     border:double;
     border-color:#780000;
 }
+
+.form {
+    text-align: center;
+    margin: 20px;
+}
