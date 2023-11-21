@@ -1,8 +1,6 @@
 #content {
     max-width: 1600px;
     margin: 0 auto;
-    font-family: "Hoefler", "Baskerville Old Face", Garamond, "Times New Roman", serif;
-    ;
 }
 
 nav a{
@@ -44,11 +42,11 @@ body {
     margin: 0;
     padding: 0;
     font-family: Calibri, "Candara", "Segoe", "Segoe UI", "Optima", Arial, sans-serif;
+    color:#699BBC;
 }
 
 header {
     background-color: #F5F5F5;
-    font-family: "Hoefler", "Baskerville Old Face", Garamond, "Times New Roman", serif;
     display: grid;
     grid-template-columns: 150px auto;
 }
@@ -96,14 +94,14 @@ footer {
 }
 
 .home-title {
-    color: #151E3D;
-    font-family: Impact, 'Arial Rounded MT Bold', sans-serif;
+    color: #003049;
+    font-family: Calibri, "Candara", "Segoe", "Segoe UI", "Optima", Arial, sans-serif;
     font-size: 2em;
     margin-top: 10px;
 }
 
 h4 {
-    color: #151E3D;
+    color: #003049;
 }
 
 .msg h2 {
@@ -138,13 +136,17 @@ footer a:hover {
 }
 
 h1 {
-    font-family: Impact, 'Arial Rounded MT Bold', sans-serif;
+    color: #003049;
+    font-family: "Hoefler", "Baskerville Old Face", Garamond, "Times New Roman", serif;
 }
 
 h2 {
-    font-family: Impact, 'Arial Rounded MT Bold', sans-serif;
     margin: 0;
+    color: #003049;
+    font-family: "Hoefler", "Baskerville Old Face", Garamond, "Times New Roman", serif;
 }
+
+
 
 #logo_link {
     padding-top: 5px;
@@ -255,7 +257,7 @@ main.home-grid {
 }
 
 .instagram {
-    width: 50px;
+    width: 100px;
 }
 
 .section1 {
@@ -301,4 +303,9 @@ main.home-grid {
     text-align: center;
     margin: 0 auto;
     padding: 50px;
+}
+
+img {
+    border: double;
+    border-color: #780000;
 }
