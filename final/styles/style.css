@@ -330,3 +330,29 @@ img {
     margin: 0 auto;
     text-align: center;
 }
+
+.videos1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.videos2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.videos3 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 0 auto;
+    text-align: center;
+}
+
+iframe {
+    border:double;
+    border-color:#780000;
+}
