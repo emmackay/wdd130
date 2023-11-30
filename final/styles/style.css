@@ -364,3 +364,27 @@ iframe {
     text-align: center;
     margin: 20px;
 }
+
+.textline1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 10px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.textline2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 10px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.textline3 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 10px;
+    margin: 0 auto;
+    text-align: center;
+}
