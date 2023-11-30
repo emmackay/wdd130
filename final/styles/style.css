@@ -412,3 +412,9 @@ iframe {
     margin: 0 auto;
     text-align: center;
 }
+
+.videosummary {
+    text-align: center;
+    padding: 50px;
+    margin: 0 auto;
+}
