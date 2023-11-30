@@ -388,3 +388,27 @@ iframe {
     margin: 0 auto;
     text-align: center;
 }
+
+.videostext1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 10px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.videostext2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 10px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.videostext3 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 10px;
+    margin: 0 auto;
+    text-align: center;
+}
